@@ -2,8 +2,9 @@
 
 # Softwares: Android Studio, Arduino IDE, Google Collab
 # Languages: Java, Keras, TensorFlow, C++
-# Tasks: Machine learning, App development, Gait analysis, Hardware Interfacing, 
-# Sensors: MPU6050 (Gyroscope and accelerometer), Heart Rate Sensor, GPS 
+# Communication: UDP wireless WiFi connection in java
+# Tasks: Machine learning, App development, Gait analysis, Hardware Interfacing, Map GUI, button tone
+# Sensors / Hardware: MPU6050 (Gyroscope and accelerometer), Heart Rate Sensor, GPS, Speaker, Arduino Nano 33 IoT microcontroller
 
 # Abstract
 Sports have expanded over time, with development not only in competition but also in research. Sport studies are inextricably linked to its inherent aspects such as physical fitness, performance, and production. In this project, information on the integration of wearable devices to enhance athletic performance tracking has been gathered from subfields of research. Although there are multiple wearable technologies available on the global market to aid in sports activities, they have various limitations. Despite Qatar being one of the most forward-looking and advanced athletic nations on the globe, wearable devices are scarce in the Qatari market. Zooming in on the impediments of the existing products, one major evident setback is the lack of a communication system embedded into the wearable. Communication is crucial in sports. Coaches guide their players to ensure that they are functioning to their full capacity, which frequently necessitates immediate communication during physical activity.
