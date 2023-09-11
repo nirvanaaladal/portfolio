@@ -1,1 +1,3 @@
 # Hypermarket Management System in C++
+
+Embarking on a journey of innovation, I was tasked with revolutionizing the inventory management system of a hypermarket. Traditionally, a sales engineer meticulously maintained this vital record on paper, handling tasks such as item additions, stock level updates, and report generation manually. However, as the inventory expanded, this paper-based approach became unwieldy. Recognizing the need for change, I was entrusted with the mission to design a computerized solution. Leveraging my expertise in C++, I crafted an application tailored to the sales engineer's needs, ushering in a new era of efficiency and precision in inventory management.
