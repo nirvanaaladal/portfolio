@@ -1,0 +1,4 @@
+11	11	20	1	13.65	11	Flour 1kg
+30	12 	3 	2 	25.70 	26 	BinJab Rice 1kg
+23	12 	12 	3 	3.60 	13 	Tooth Brush
+1	8 	5 	4 	33.95 	30 	Omo 1kg
