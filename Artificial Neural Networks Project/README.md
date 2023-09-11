@@ -1,0 +1,6 @@
+## Improving Soybean Crops Quality and Production using Image Classification of Disease and Object Detection of Flowers
+
+# Abstract:
+It is predicted that by 2050, there would be a global food crisis, with people resorting to any measures required to get food. This is due to the food's continuously diminishing quality over the last many years. Many academics believe that the quality of food produced in recent years has been shockingly low. Plant disease is a major impediment to increasing agricultural productivity and food quality. False plant illness diagnosis lead to pesticide abuse, which reduces crop quality. The major theme of the study is the categorization of illnesses on the leaves such as Brown Spots, Rust leaves, Bacterial Pustules, and Mosaic Viruses, as well as crop production measurements utilizing object detection. We can anticipate the most effective strategies to treat agricultural illnesses and measure crop productivity gains and losses using this methodology. In this paper, the image quality is improved using the suggested approach's use of image enhancement techniques. Over 1,150 photos of soybean leaves, the deep convolutional neural network technique achieves 96.71% accuracy.
+# Keywords: 
+Image Classification, Convolutional Neural Network, Object Detection, Tensorflow, Deep Learning, Agriculture Sector
