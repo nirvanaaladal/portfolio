@@ -231,7 +231,6 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
         // Please replace Your API key with the API key in
         // agconnect-services.json.
-        MapsInitializer.setApiKey("DAEDAA28wtA5wCKUCYfQ5zui59S8joFuCE3kCYtMPOFLgu5cgnbqD3wSx2FIAuWUPMTc9GJFA4QYCN2YAsCHQiM8p52RL851agys/A==");
         mMapView.onCreate(mapViewBundle);
         // Obtain a map instance.
         mMapView.getMapAsync(this);
